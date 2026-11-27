@@ -25,6 +25,7 @@ public class Sagrado_MethodActivity {
         System.out.println("The difference of 5 and 3 is " + calculate(5,3,'-'));
         System.out.println("The product of 5 and 3 is " + calculate(5,3,'*'));
         System.out.println("The quotient of 15 and 3 is " + calculate(15,3,'/'));
+        System.out.println("Hello");
     }
     
 }
